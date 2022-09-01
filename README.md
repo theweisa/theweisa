@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @theweisa
+- 👀 I’m interested in Computer Science and Game design. I've always been interested in the design process for video games and the decision making that goes behind it.
+- 🌱 I’m currently learning Computer Game Design in UC Santa Cruz, and have already worked on a good amount of games both myself and with groups.
+- 💞️ I’m looking to collaborate on any project involving games; the genre is not particularly important to me because I enjoy the process for any type of game.
+- 📫 How to reach me: Discord: Weisa#9345, Twitter: @Theweisa
