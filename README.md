@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew Wei, or @theweisa
 - 👀 I’m interested in Computer Science and Game design. I've always been interested in the design process for video games and the decision making that goes behind it.
 - 🌱 I have a Masters in Game Design at UC Santa Cruz and have worked on several polished projects.
-- 💞️ I’m looking for a job 
+- 💞️ I’m looking for a job 😎
 - 📫 How to reach me: Discord: Weisa#9345, Email: weiandrew2012@gmail.com
